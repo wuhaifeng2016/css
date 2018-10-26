@@ -1,8 +1,9 @@
 *{
 	margin: 0px;
 	padding: 0px;
-	color: black;
+	color: #333;
 	font-family: 微软雅黑;
+	box-sizing: border-box;
 }
 a{
 	color: black;
